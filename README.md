@@ -1,5 +1,5 @@
 # joy_ride
 
-modifiy the deacceleration
-
 modify collision
+
+modify overlook view
